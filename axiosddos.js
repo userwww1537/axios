@@ -5,7 +5,7 @@ const fakeUa = require('fake-useragent')
 function processmain(){
     function main(){
     var pop={
-        url:'https://cungcang.xyz/',
+        url:'https://lms.poly.edu.vn/',
         medthod:'get',
         headers:{
             'Cache-Control': 'no-cache',
